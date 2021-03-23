@@ -1,0 +1,15 @@
+{
+  "name": "mon-cli",
+  "version": "1.0.0",
+  "description": "Mon super CLI",
+  "main": "mon-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mon-cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
